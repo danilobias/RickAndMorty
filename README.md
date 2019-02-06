@@ -12,7 +12,7 @@ New features coming soon!
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/danilobias/)
-- [E-mail] (danilobias@hotmail.com)
+- E-mail: (danilobias@hotmail.com)
 
 ## Contribution
 - Suggestions ,ideas, Pulls and issues are very welcomed
